@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "AnnabacPro",
   "version": "1.0",
-  "description": "Débloque tous les articales sur Annabac gratuitement",
+  "description": "Débloque tous les articles sur Annabac gratuitement",
   "permissions": [
     "activeTab",
     "storage"
